@@ -1,0 +1,1 @@
+Week 2 - Divide-and-conquer basics; the master method for analyzing divide and conquer algorithms.

@@ -1,0 +1,1 @@
+Week 1 - Introduction; "big-oh" notation and asymptotic analysis.
